@@ -1,5 +1,5 @@
 # README
-本项目是一个基于Python语言，利用Hartree-Fock来计算H2分子基态的项目。
+本项目是一个基于Python语言，利用Hartree-Fock来计算H2和HeH+的项目。
 
 
 主要包括的内容有：
